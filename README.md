@@ -5,7 +5,7 @@ Este proyecto es una prueba de concepto para scrapear libros desde **Books to Sc
 Se incluyen funcionalidades de **ordenamiento** y **refresco dinámico** mediante un botón.
 
 ## Tecnologías
-- Next.js 13 (App Router, React 18)  
+- Next.js 15 (App Router, React 18)  
 - TypeScript  
 - React y Hooks  
 - Tailwind CSS  
@@ -36,4 +36,8 @@ Se incluyen funcionalidades de **ordenamiento** y **refresco dinámico** mediant
 ```bash
 npm install
 
-npm run dev# BooksScrapting
+npm run dev 
+```
+
+### Iniciar el scripting desde el boton Cargar libros
+
