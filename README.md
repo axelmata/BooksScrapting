@@ -39,5 +39,5 @@ npm install
 npm run dev 
 ```
 
-### Iniciar el scripting desde el boton Cargar libros
+### Iniciar el scripting desde el boton `"Cargar libros"`
 
